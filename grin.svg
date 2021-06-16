@@ -16,8 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="grin-working.svg"
-   inkscape:export-filename="/home/rory/Documents/MSN Emoticon SVGs/grin-working.svg.png"
+   sodipodi:docname="grin.svg"
+   inkscape:export-filename="/home/rory/Documents/MSN Emoticon SVGs/msnGrin.png"
    inkscape:export-xdpi="646.73682"
    inkscape:export-ydpi="646.73682">
   <defs
@@ -195,8 +195,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="7.8570958"
-     inkscape:cy="9.6194587"
+     inkscape:cx="8.2221253"
+     inkscape:cy="14.234998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -214,7 +214,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -231,7 +231,7 @@
        style="fill:url(#radialGradient4542);fill-opacity:1;stroke:url(#linearGradient4550);stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none"
        r="9" />
     <path
-       style="fill:url(#radialGradient4832);fill-opacity:1;stroke:#77341e;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:url(#radialGradient4832);fill-opacity:1;stroke:#ae8217;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m 9.4929848,648.80232 c -3.3301954,-0.10121 -6.3799485,-2.55176 -5.6348872,-3.84224 0.8514889,-1.47482 2.3031542,0.7878 5.6348872,0.7878 3.3317332,0 4.8185782,-2.1851 5.6402492,-0.76192 0.776485,1.34491 -2.259203,3.81636 -5.6402492,3.81636 z"
        id="path4824"
        inkscape:connector-curvature="0"
