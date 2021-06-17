@@ -64,6 +64,40 @@
          offset="1"
          id="stop4546" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4886"
+       id="radialGradient4905"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11492003,0,0,0.14303299,0.97059619,202.37166)"
+       cx="5.4726558"
+       cy="638.61969"
+       fx="5.4726558"
+       fy="638.61969"
+       r="1.1601562" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4886">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4882" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.99507391"
+         offset="1"
+         id="stop4884" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4886"
+       id="radialGradient4905-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11492003,0,0,0.14303299,2.544867,202.37169)"
+       cx="5.4726558"
+       cy="638.61969"
+       fx="5.4726558"
+       fy="638.61969"
+       r="1.1601562" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -73,8 +107,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="15.839192"
-     inkscape:cx="-2.5597391"
-     inkscape:cy="5.0588025"
+     inkscape:cx="-9.2902207"
+     inkscape:cy="0.76818915"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,7 +126,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -122,13 +156,6 @@
        rx="0.35966796"
        ry="0.63251954" />
     <ellipse
-       ry="0.32030398"
-       rx="0.30695802"
-       cy="293.83948"
-       cx="1.7234411"
-       id="ellipse4903"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-    <ellipse
        ry="0.63251954"
        rx="0.35966796"
        cy="293.82605"
@@ -136,11 +163,18 @@
        id="ellipse5047"
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ae8217;stroke-width:0.42333332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
     <ellipse
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       id="ellipse5049"
-       cx="3.2977057"
-       cy="293.83948"
+       ry="0.32030398"
        rx="0.30695802"
-       ry="0.32030398" />
+       cy="293.83936"
+       cx="1.7235372"
+       id="ellipse4903-3"
+       style="display:inline;fill:url(#radialGradient4905);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <ellipse
+       ry="0.32030398"
+       rx="0.30695802"
+       cy="293.83936"
+       cx="3.2978079"
+       id="ellipse4903-3-3"
+       style="display:inline;fill:url(#radialGradient4905-6);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
   </g>
 </svg>
