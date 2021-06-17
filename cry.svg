@@ -103,12 +103,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1519"
        id="radialGradient1523"
-       cx="1.061691"
-       cy="294.25211"
-       fx="1.061691"
-       fy="294.25211"
+       cx="1.0247784"
+       cy="294.48553"
+       fx="1.0247784"
+       fy="294.48553"
        r="0.39351723"
-       gradientTransform="matrix(1,0,0,2.0587662,-0.00691918,-311.53645)"
+       gradientTransform="matrix(1.8431448,0,0,1.6115434,-0.85766445,-179.92654)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -119,8 +119,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="22.4"
-     inkscape:cx="8.4886504"
-     inkscape:cy="8.8674096"
+     inkscape:cx="0.89936469"
+     inkscape:cy="8.6888382"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
